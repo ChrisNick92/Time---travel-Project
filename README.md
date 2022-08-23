@@ -62,7 +62,7 @@ You can download the .py scripts and execute the mainscript.py with your own lis
 
 `>python ./mainscript.py 1500 COMPANIES 4 AMZN FB AAPL GE`
 
-The identified word COMPANIES tells the program that the user will choose his/her own combination of companies, the number following the identifier word is corresponds to the number of companies that the user will provide. If you want to print the results on screen you can type the following command.
+The identified word COMPANIES tells the program that the user will choose his/her own combination of companies, the number following the identifier word corresponds to the number of companies that the user will provide. If you want to print the results on screen you can type the following command.
 
 `>python ./mainscript.py 1500 COMPANIES 4 AMZN FB AAPL GE PRINT TRUE`
 
